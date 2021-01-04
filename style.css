@@ -35,6 +35,7 @@ h5 {
 main {
   flex: 1;
   overflow: auto;
+  overflow-y:scroll;
 }
 
 pre {

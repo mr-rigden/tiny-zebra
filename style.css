@@ -103,6 +103,10 @@ pre {
   margin: 0;
   padding-bottom: 0.5rem;
 }
+
+.content-footer p {
+  padding-bottom: 1rem;
+}
 .content-footer h4 {
   margin: 0;
   padding: 0;
